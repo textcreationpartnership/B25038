@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation. James R. Whereas since our arrival into this our kingdom of Ireland, we are informed that notwithstanding the several proclamations issued by our chief governor and council of this our realm, ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25038</idno><idno type="EEBO-CITATION">99886367</idno>
+  <idno type="VID">186625</idno>
+  <idno type="EEBO-PROQUEST">2248536425</idno>
+  
+            <idno type="STC">Wing J269</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[53]</idno>
+            <idno type="STC">ESTC R225904</idno>
+            <idno type="STC">ESTC R227936</idno>
+            <idno type="PROQUEST">ocm99886367</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886367e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186625)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[53])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation. James R. Whereas since our arrival into this our kingdom of Ireland, we are informed that notwithstanding the several proclamations issued by our chief governor and council of this our realm, ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham assigns of Benjamin Tooke printer to the Kings most excellent Majesty; and are to be sold at the Kings printinghouse on Ormonde-Key, and the Colledge-Arms in Castle-street,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and opening lines of text.</note>
+                  <note>"Given at our court at Dublin Castle the 25th day of March 1689.".</note>
+                  <note>Not withstanding previous proclamations some subjects have withdrawn themselves out of fear, or in rebellion. All subjects to have free exercise of religion. ...--Steele.</note>
+                  <note>Steele notation: Arms 186. Our fear p.2) In Dublin.</note>
+                  <note>In this edition the cross at the top of the Royal Arms is solid (i.e. black in color) and the lion's crown is completely visable.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186625:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <signed>BY THE KING.</signed>
+            </opener>
+            <head>A PROCLAMATION.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS since Our Arrival into this Our Kingdom of <hi>Ireland,</hi> We are informed that not<g ref="char:EOLhyphen"/>withstanding the several Proclamations issued by Our Chief Governor and Council of this Our Realm, assuring all Our Subjects of Our Pro<g ref="char:EOLhyphen"/>tection to their Persons, Liberties and Proper<g ref="char:EOLhyphen"/>ties, divers of them entred into actual Rebellion within this Realm, many of them withdrew themselves into Our Kingdoms of <hi>England</hi> or <hi>Scotland,</hi> where they have adhered to Our Ene<g ref="char:EOLhyphen"/>mies and Rebels; and that others of them out of fear and apprehension of meeting some ill usage in this Realm, without any other evil intent, did transport themselves into Our said Kingdoms of <hi>England</hi> or <hi>Scotland,</hi> having acted nothing more con<g ref="char:EOLhyphen"/>trary to their Allegiance; which removal of theirs, as it cannot be but very destructive to themselves, so it tends much to the depopulating of this Realm, and to the decay of Trade therein. And as We have an extraordinary re<g ref="char:EOLhyphen"/>gard for all Our Subjects of this Our Kingdom of what Perswasion so<g ref="char:EOLhyphen"/>ever in matters of Religion, who have hitherto since the late distractions re<g ref="char:EOLhyphen"/>mained firm and constant in their Duty and Allegiance to Vs, so We cannot but have compassion and tenderness of those who withdrew themselves from their Fortunes and Being, in this Countrey, upon Iealousies and ground<g ref="char:EOLhyphen"/>less Fears that violence was to be used towards them by their fellow Sub<g ref="char:EOLhyphen"/>jects,
+<pb facs="tcp:186625:2"/> or that they should be disturbed in the exercise of their Religion. In order therefore to remove these Fears and Iealousies, and to unite all Our Subjects of this Our Kingdom, and to quiet the minds of Our People, and for the advance of Trade and Traffick here; We have thought fit, by the Ad<g ref="char:EOLhyphen"/>vice of Our Privy Council, to declare, and We do hereby declare, that it is Our Royal Will and Pleasure that from henceforth all Our Subjects with<g ref="char:EOLhyphen"/>in this Our Realm may have and enjoy the free Exercise of their Religion, so that they take special care that nothing be Preached or Taught amongst them which may tend to alienate the hearts of Our People from Vs or Our Government. And that such Liberty and Freedom may be enjoyed with greater assurance, We have thought it requisite, and do hereby command, with the advice aforesaid, that no disturbance be made, or interruption given unto them by any person whatsoever, under pain of Our displeasure, and to be further proceeded against according to the utmost rigour of the Law. And We do further hereby publish and declare, that We shall from time to time equally preserve and protect all Our Subjects of this Kingdom of what per<g ref="char:EOLhyphen"/>swasion soever in matters of Religion in their Persons, Properties and Li<g ref="char:EOLhyphen"/>berties, excepting only such as are now, or of late have been in actual Rebel<g ref="char:EOLhyphen"/>lion against Vs. And We do hereby strictly Charge and Command all Our Subjects of this Realm now residing in Our Kingdom of <hi>England</hi> or <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> who either happen'd to be there before the late Troubles, or who trans<g ref="char:EOLhyphen"/>ported themselves thither upon the Fears and Iealousies aforesaid, and who acted nothing more against their Duty and Allegiance to Vs, to repair hither within forty days after the date hereof, and to return to their several Habita<g ref="char:EOLhyphen"/>tions and Callings, hereby assuring all such of Our said Subjects as shall repair to this Our Kingdom in obedience to these Our Commands, that they shall be protected by Vs in their Persons, Properties, Liberties, and the free Exercise of their Religion. And We do hereby Require and Command all Our Loving Subjects of this Kingdom of what perswasion soever, to joyn with Vs in the Defence of this Realm against all Rebels and Enemies▪ who shall endeavour to disturb the Peace thereof.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Dublin Castle</hi>
+                  <date>the 25th day of <hi>March</hi> 1689. And in the Fifth Year of Our Reign.</date>
+               </dateline>
+            </closer>
+            <closer>God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham</hi> Assigns of <hi>Benjamin Tooke</hi> Printer to the Kings Most Excellent Majesty; and are to be Sold at the Kings Printing house on <hi>Ormonde-Key,</hi> and the <hi>Colledge-Arms</hi> in <hi>Castle-street.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
